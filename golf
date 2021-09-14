@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Esteban</title>
+<h1><strong><em>El golf</h1></strong></em>
+<body bgcolor="green">
+<h4> ¿Que es el Golf? </h4>
+<p>El golf es un deporte cuyo objetivo es meter una bola en los hoyos que permanecen distribuidos<br>
+ en el campo con el menor número de golpes, usando para cada tipo de golpe uno de entre un grupo <br>
+de palos sutilmente diferentes entre sí, debido a que la cabeza del palo tiene ángulos diversos, <br>
+al igual que las varillas poseen longitudes diferentes. A menor número de grados de inclinación, <br>
+más grande longitud de la varilla y, por consiguiente, más distancia. <br>
+<br>
+<br>
+<img src="depositphotos_54335323-stock-photo-man-playing-golf" alt="Golfito">
+
+<h4> Campo para jugar</h4>
+<p>Un campo de golf ocupa una área vasta y está formado, principalmente, de 9 o 18 recorridos parciales.<br>
+ Finalmente de todos dichos recorridos hay un hoyo en el área, donde se ha de incorporar la bola con el <br>
+menor número viable de golpes; por expansión, todos los recorridos parciales se llama además hoyo. El <br>
+orden de recorrido de los hoyos en la cancha da nombre a todos ellos: hoyo 1, hoyo 2, etcétera. En ciertos<br>
+ campos de golf, a los hoyos se les otorgan además otros nombres conmemorativos, comerciales o tomados de <br>
+alguna de sus propiedades: complejidad, diseño, nombres de flores o animales, etcétera. </p>
+<h4>los tiros</h4>
+<p>Un campo de golf ocupa una área vasta y está formado, principalmente, de 9 o 18 recorridos parciales.<br>
+ Finalmente de todos dichos recorridos hay un hoyo en el área, donde se ha de incorporar la bola con el<br>
+ menor número viable de golpes; por expansión, todos los recorridos parciales se llama además hoyo. El orden<br>
+ de recorrido de los hoyos en la cancha da nombre a todos ellos: hoyo 1, hoyo 2, etcétera. En ciertos <br>
+campos de golf, a los hoyos se les otorgan además otros nombres conmemorativos, comerciales o tomados de <br>
+alguna de sus propiedades: complejidad, diseño, nombres de flores o animales, etcétera. </p>
+<h4> Longitud de tiro</h4>
+<br>
+<br>
+<br>
+<img src="Golf-del-Green-a-tu-Corazon" alt="Golfito2"> 
+
+<table border="1">
+<tr>
+<td>Par 3:</td><td>entre 90 y 230 metros, 100 a 250 yardas</td>
+</tr>
+<tr>
+<td>Par 4:</td><td>entre 230 y 450 metros, 251 a 475 yardas</td>
+</tr>
+<tr>
+<td>Par 5:</td><td>entre 450 y 630 metros, 476 a 690 yardas</td><br>
+<h4>Para más información ver este video</h4>
+<a href="https://www.youtube.com/watch?v=27Ut_-BnNVg">Que es el golf</a><br>
+<a href="https://www.youtube.com/watch?v=Gfpz96rb9dg">Reglas del golf</a>
+
+</table>
+</body>
+</html>
